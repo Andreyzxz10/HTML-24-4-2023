@@ -1,0 +1,55 @@
+.clase1{
+text-align: center;
+
+}
+
+.back1{
+background-color: rgba(240, 17, 17, 0.664);
+width: 90%;
+max-width: 300px;
+border-radius: 1em;
+
+
+}
+
+.space{
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10%;
+    
+}
+
+.boton{
+font-style: italic;
+padding: 2px 40px;
+border-radius: 15px;
+
+
+}
+
+.input1{
+    border-radius: 10px;
+
+
+}
+
+.logo1 {
+
+height: 350px;
+margin-top: 1%;
+margin-left: 40%;
+opacity: 30%;
+
+
+}
+.fondo{
+    background-image: url(Recurso\ 1.png);
+}
+#titulo1{
+    text-align: center;
+    background-color: red;
+    padding-top: 2%;
+    
+}
